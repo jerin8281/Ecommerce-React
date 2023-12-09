@@ -1,0 +1,60 @@
+.container{
+    height: 60px;
+    padding: 10px;
+    
+    
+    
+}
+.navItems{
+    
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+cursor: pointer;
+display: flex;
+flex: 1;
+
+}
+.center{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    font-weight:bolder;
+    font-size: 40px;
+
+
+}
+.right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+   
+    
+    
+}
+.input{
+    
+    border: none;
+}
+.search{
+    margin-left:25px ;
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    border: 0.5px solid lightgray;
+    height: 20px;
+}
+.language{
+    font-size: 15px;
+    font-weight: bold;
+}
+.menuItem{
+    display: flex;
+   margin-right: 25px;
+   cursor: pointer;
+    
+    
+}
