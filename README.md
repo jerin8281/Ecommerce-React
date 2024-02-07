@@ -1,15 +1,15 @@
-# Ecommerce-React
+# Ecommerce-MERN
 
 ## Table of Contents
-- Description
-- Features
-- Technologies
-- Installation
-- Usage
-- Screenshots
+- [Description](#Description)
+- [Features](#Features)
+- [Technologies](#Technologies)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Screenshots](#Screenshots)
 
 ## Description
-This is an E-commerce application built with React.
+This is a MERN STACK E-commerce application.
 
 ## Features
 - Browse products
