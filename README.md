@@ -1,4 +1,45 @@
-Screenshots
+# Ecommerce-React
+
+## Table of Contents
+- Description
+- Features
+- Technologies
+- Installation
+- Usage
+- Screenshots
+
+## Description
+This is an E-commerce application built with React.
+
+## Features
+- Browse products
+- Add products to cart
+- Review and checkout
+- Place & view orders
+- Browse products by categories
+- Filter and sort products
+
+## Technologies
+This project is created with:
+
+- Expreess.js
+- React.js
+- MongoDB
+- Redux
+- JWT
+- Styled Components
+
+
+## Installation
+1. Clone the repository: `git clone https://github.com/jerin8281/Ecommerce-React.git`
+2. Navigate to the project directory: `cd Ecommerce-React`
+3. Install the dependencies: `npm install`
+4. Start the application: `npm start`
+
+## Usage
+Open `localhost:3000` in your browser to use the application
+
+## Screenshots
 
 ![Screenshot (49)](https://github.com/jerin8281/Ecommerce-React/assets/143702561/e8f194ad-4058-4639-8c71-40c7a8872bfa)
 ![Screenshot (50)](https://github.com/jerin8281/Ecommerce-React/assets/143702561/b85f0050-7189-493e-a350-50b3e1012ad9)
@@ -9,13 +50,3 @@ Screenshots
 ![Screenshot (12)](https://github.com/jerin8281/Ecommerce-React/assets/143702561/664032cb-5c92-479e-ab81-68fe6eeb3be9)
 ![Screenshot (51)](https://github.com/jerin8281/Ecommerce-React/assets/143702561/045ff98c-345c-42de-9689-a13ae3386ba9)
 ![Screenshot (53)](https://github.com/jerin8281/Ecommerce-React/assets/143702561/8690ef4d-d78d-45f9-9c7d-edda8e88a77d)
-
-
-
-
-
-
-
-
-
-
